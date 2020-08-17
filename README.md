@@ -66,7 +66,7 @@
 
 Начиная с марта 2018 работаю Unity-разработчиком в [Humsters Gaming](https://hamstersgaming.com/).
 
-![](Images\Hamsters Gaming\HG_Logo.png)
+![Hamsters Gaming Logo](Images\Hamsters Gaming\HG_Logo.png)
 
 
 __v0.0.47__
